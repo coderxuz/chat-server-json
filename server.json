@@ -15,6 +15,7 @@
     
   ],
   "active":[
-    {"active":false}
+    {"userActive":false},
+    {"AdminActive":false}
   ]
 }
